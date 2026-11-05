@@ -1,0 +1,91 @@
+<img src="girasol.png" alt="" /><img src="girasol.png" alt="" />/* Cuerpo del documento */
+BODY 
+{
+    background-color: pink;
+    font-family: Arial;
+    color: white;
+}
+
+
+/* Tabla */
+table
+{
+	boder: 5px solid black;
+	boder-collapse: collapse;
+    border: 5px double white;
+    background-color: white;
+    height: 2%;
+    border-collapse: separate;
+}
+
+
+/* Títulos */
+H1
+{
+    font-family: fantasy;
+    text-align: center;
+    background-color: #ffccdd;
+    color: red;
+}
+
+
+/* Subtítulos */
+H2
+{
+    color: red;
+    text-align: center;
+}
+
+
+/* Títulos de las celdas */
+H3
+{
+    font-family: Verdana;
+    text-align: center;
+    background-color: pink;
+    color: purple;
+}
+
+
+/* Celdas */
+td
+{
+    font-size: 17pt;
+    font-family: Verdana, Arial;
+    text-align: justify;
+    background-color: #ffccdd;
+    color: black;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-style: double;
+    border-color: #fff0f5;
+}
+
+
+/* Textos especiales */
+p
+{
+    font-size: 20pt;
+    font-family: Helvetica;
+    font-weight: normal;
+    color: purple;
+}
+
+
+/* Imágenes */
+img
+{
+    width: 400px;
+    height: 350px;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 8px #666666;
+}
+
+
+
