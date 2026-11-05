@@ -1,0 +1,210 @@
+<HTML>
+    <HEAD>      
+      <meta charset="utf-8">
+        <title>formularios</title>
+    </HEAD>
+<BODY>
+<TABLE bgcolor="#ffccdd" align="center" cellpadding="5" cellspacing="20">
+	<tr>
+		<th align="center" colspan="4" >FORMULARIO</th>	
+	</tr>
+	
+	<tr>	
+<form>	
+		<td><label for="Nombres">Nombres: </label></td>
+		<td><input type="text" name="Nombres" size="25" id="Nombres"></td>
+		<td><label for="Apellidos">Apellidos: </label></td>
+		<td><input type="text" name="Apellidos" size="25" id="Apellidos"></td>
+	</tr>
+	<tr>	
+	<td><label for="Documento">Documento: </label></td>
+		<td><input type="text" name="Documento" size="10" id="Documento"></td>
+		<td><label for="Direccion">Direccion: </label></td>
+		<td><input type="text" name="Direccion" size="30" id="Direccion"></td>
+	</tr>	
+	<tr>	
+	<td><label for="Telefono">Telefono: </label></td>
+		<td><input type="text" name="Telefono" size="13" id="Telefono"></td>
+		<td><label for="Correo">Correo: </label></td>
+		<td><input type="text" name="Correo" size="30" id="Correo"></td>
+	</tr>
+	<tr>
+	<td> SEXO</th>
+	<td><input type="radio" name="sexo" id="" value="Hombre"> <label for="Hombre">Hombre: </label></td>
+   <td><input type="radio" name="sexo" id="mujer" value="Mujer"> <label for="mujer">Mujer: </label></td>
+   <td><input type="radio" name="sexo" id="Otro" value="Otro"> <label for="mujer">Otro: </label></td>
+   </tr>
+   <tr>
+	<td> ¿Que te parece mas llamativo de Kuromi?</td> </tr>
+	<tr>
+	<td><input type="radio" name="kuromi" id="El Morado" value="El Morado"> <label for="El Morado">El Morado: </label></td>
+   <td><input type="radio" name="kuromi" id="Su Calabera" value="Su Calabera"> <label for="Su Calabera">Su Calabera: </label></td>
+   <td><input type="radio" name="kuromi" id="Reveldia" value="Reveldia"> <label for="Reveldia">Su Reveldia: </label></td>
+    <td><input type="radio" name="kuromi" id="Su Moto" value="Su Moto"> <label for="Su Moto">Su Moto: </label></td>
+   </tr>
+   <tr>
+   <td><input type="radio" name="kuromi" id="Su Mascota" value="Su Mascota"> <label for="Su Mascota">Su Mascota: </label></td>
+   <td><input type="radio" name="kuromi" id="Su Casa" value="Su Casa"> <label for="Su Casa">Su Casa: </label></td>
+   <td><input type="radio" name="kuromi" id="Su Actitud" value="Su Actitud"> <label for="Su Actitud">Su Actitud: </label></td>
+    <td><input type="radio" name="kuromi" id="Otro" value="Otro"> <label for="Otro">Otro: </label></td>
+   </tr>
+   <tr>
+	<td> ¿Kuromi es?</td> </tr>
+	<tr>
+	<td><input type="radio" name="Kuromi es" id="Coneja" value="Coneja"> <label for="Coneja">Coneja: </label></td>
+   <td><input type="radio" name="Kuromi es" id="Gata" value="Gata"> <label for="Gata">Gata: </label></td>
+   <td><input type="radio" name="Kuromi es" id="Hamster" value=" Hamster"> <label for=" Hamster"> Hamster: </label></td>
+    <td><input type="radio" name="Kuromi es" id="Otro" value="Otro"> <label for="Otro">Otro: </label></td>
+   </tr>
+    <tr>
+	<td> ¿Que flor quieres que aparezca en el siguiente archivo?</td> </tr>
+	<tr>
+	<td><input type="radio" name="flor" id="Nubes" value="Nubes"> <label for="Nubes">Nubes: </label></td>
+   <td><input type="radio" name="flor" id="Clavel" value="Clavel"> <label for="Clavel">Clavel: </label></td>
+   <td><input type="radio" name="flor" id="Jazmin" value="Jazmin"> <label for="Jazmin">Jazmin: </label></td>
+    <td><input type="radio" name="flor" id="Amapola" value="Amapola"> <label for="Amapola">Amapola: </label></td>
+   </tr>
+   <tr>
+   <td><input type="radio" name="flor" id="Dalia" value="Dalia"> <label for="Dalia">Dalia: </label></td>
+   <td><input type="radio" name="flor" id="Otro" value="Otro"> <label for="Otro">Otro: </label></td>
+</tr>
+ <tr>
+	<td> ¿Una Flor es?</td> </tr>
+	<tr>
+	<td><input type="radio" name="Una Flor es" id="Vida" value="Vida"> <label for="Vida">Vida: </label></td>
+   <td><input type="radio" name="Una Flor es" id="Inservible" value="Inservible"> <label for="Inservible">Inservible: </label></td>
+   <td><input type="radio" name="Una Flor es" id="órgano reproductor" value=" órgano reproductor"> <label for=" órgano reproductor"> órgano reproductor: </label></td>
+    <td><input type="radio" name="Una Flor es" id="Otro" value="Otro"> <label for="Otro">Otro: </label></td>
+   </tr>
+   <tr> <td> <label for="comentarios" > ¿Qué consejo le darías a alguien que quiere entrar
+ en el mundo de las flores? <br> </label> <textarea id="comentarios" name="comentarios" rows="5" cols="45"></textarea> </td> </tr>
+<tr>
+<td> ¿Quienes son los mejores amigos de kuromi?</td></tr>
+<tr>
+<td><INPUT Type="checkbox"Id= Baku name="amigos" Value="Baku">
+<Label For="Baku"> Baku </Label></td>
+<td><INPUT Type="checkbox"Id= Las Flores name="amigos" Value=" Las Flores ">
+<Label For="Las Flores ">  Las Flores  </Label></td>
+<td><INPUT Type="checkbox"Id= My Melody name="My Melody" Value="My Melody">
+<Label For="My Melody"> My Melody </Label></td>
+<td><INPUT Type="checkbox"Id= Hello Kitty name="amigos" Value="Hello Kitty">
+<Label For="Hello Kitty"> Hello Kitty </Label></td>
+<tr>
+ <td><INPUT Type="checkbox"Id= Chumi name="amigos" Value="Chumi">
+<Label For="Chumi"> Chumi </Label></td>
+<td><INPUT Type="checkbox"Id= Otro name="amigos" Value="Otro">
+<Label For="Otro"> Otro </Label></td>
+  </tr>
+<td>
+<select>
+<option value="html"> Seleccina una flor </option>
+<option value="html"> Lavanda </option>
+<option value="html">Narciso </option>
+<option value="html">Bromelia </option>
+</select>
+</td>
+<td>
+<select>
+<option value="html">seleccione un color </option>
+<option value="html"> Negro </option>
+<option value="html"> Morado </option>
+<option value="html"> Blanco </option>
+</select>
+</td>
+
+<td>
+<select>
+<option value="html">seleccione un personaje </option>
+<option value="html"> Hello Kitty </option>
+<option value="html"> My Melody </option>
+<option value="html"> Baku </option>
+</select>
+</td>
+<td>
+<select>
+<option value="html"> ¿Que tiene kuromi en su gorro? </option>
+<option value="html"> Una Flor  </option>
+<option value="html"> Calabera </option>
+<option value="html"> Nada </option>
+</select>
+</td>
+</tr>
+<tr>
+<td> ¿Quienes son los mejores amigos de kuromi?</td></tr>
+<tr>
+<td><INPUT Type="checkbox"Id= Baku name="amigos" Value="Baku">
+<Label For="Baku"> Baku </Label></td>
+<td><INPUT Type="checkbox"Id= Las Flores name="amigos" Value=" Las Flores ">
+<Label For="Las Flores ">  Las Flores  </Label></td>
+<td><INPUT Type="checkbox"Id= My Melody name="My Melody" Value="My Melody">
+<Label For="My Melody"> My Melody </Label></td>
+<td><INPUT Type="checkbox"Id= Hello Kitty name="amigos" Value="Hello Kitty">
+<Label For="Hello Kitty"> Hello Kitty </Label></td>
+<tr>
+ <td><INPUT Type="checkbox"Id= Chumi name="amigos" Value="Chumi">
+<Label For="Chumi"> Chumi </Label></td>
+<td><INPUT Type="checkbox"Id= Otro name="amigos" Value="Otro">
+<Label For="Otro"> Otro </Label></td>
+  </tr>
+<tr>
+<td> ¿Cuál es tu elemento favorito del diseño de Kuromi?</td></tr>
+<tr>
+<td><INPUT Type="checkbox"Id= su sombrero de payaso negro name="accesorios" Value="su sombrero de payaso negro">
+<Label For="su sombrero de payaso negro"> su sombrero de payaso negro </Label></td>
+<td><INPUT Type="checkbox"Id=  su calavera rosa name="accesorios" Value="  su calavera rosa ">
+<Label For=" su calavera rosa ">  su calavera rosa  </Label></td>
+<td><INPUT Type="checkbox"Id= su colita de diablito name="su colita de diablito" Value="su colita de diablito">
+<Label For="su colita de diablito">su colita de diablito</Label></td>
+<td><INPUT Type="checkbox"Id= su colgante de bufon name="accesorios" Value="su colgante de bufon ">
+<Label For="su colgante de bufon "> su colgante de bufon  </Label></td>
+<tr>
+ <td><INPUT Type="checkbox"Id= otro name="accesorios" Value="otro">
+<Label For="otro"> otro </Label></td>
+  </tr>
+<tr>
+<td> ¿Que te llama la atencion de las flores?</td></tr>
+<tr>
+<td><INPUT Type="checkbox"Id= Sus Colores name="amigos" Value="Sus Colores">
+<Label For="Sus Colores"> Sus Colores </Label></td>
+<td><INPUT Type="checkbox"Id= Olores name="amigos" Value=" Olores ">
+<Label For="Olores "> Olores </Label></td>
+<td><INPUT Type="checkbox"Id= Tallos name="Tallos" Value="Tallos">
+<Label For="Tallos"> Tallos </Label></td>
+<td><INPUT Type="checkbox"Id= Historia name="amigos" Value="Historia">
+<Label For="Historia"> Historia </Label></td>
+<tr>
+ <td><INPUT Type="checkbox"Id= Belleza name="Belleza" Value="Belleza">
+<Label For="Belleza"> Belleza </Label></td>
+<td><INPUT Type="checkbox"Id= Petalos name="amigos" Value="Petalos">
+<Label For="Petalos"> Petalos </Label></td>
+<td><INPUT Type="checkbox"Id= Los Sépalos name="Los Sépalos" Value="Los Sépalos">
+<Label For="Los Sépalos"> Los Sépalos </Label></td>
+<td><INPUT Type="checkbox"Id= Otro name="amigos" Value="Otro">
+<Label For="Otro"> Otro </Label></td>
+  </tr>
+<tr> <td> <label for="comentarios" >¿Que tal fue tu experiencia? <br> </label> <textarea id="comentarios" name="comentarios" rows="5" cols="45"></textarea> </td> 
+</tr> 
+<tr> <td> <button type="submit"> enviar fomulario</button> </td> 
+</tr> 
+<TR BGCOLOR="#ffccdd">
+<Th LIGN="center">
+<A href="Index.html">
+<font face="Display" size="5" color="purple"> 
+Volver
+</font>
+</A>
+</Th>
+</TR>
+</TABLE> 
+</BODY> 
+</HTML>
+
+
+
+
+
+
+
+
+
+

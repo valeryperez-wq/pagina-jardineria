@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>
+margaritas
+</TITLE>
+</HEAD>
+<BODY bgcolor="pink">
+<TABLE BORDER="10" CELLPADDING="20" CELLSPACING="20"  BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<TH colspan="2" align="center"><font face="Display" size="6" color="red">Margaritas</TH>
+<TR>
+<TR>
+<TD BGCOLOR="#ffccdd"> <Img src="girasol.png"></TD> 
+<td align="justify"> <font face="Display" size="5" color="black"> Las margaritas son flores excepcionalmente resistentes y agradecidas, pero para que desplieguen toda su belleza requieren un 
+equilibrio específico entre la exposición lumínica y la gestión del agua. Al ser plantas heliófilas, demandan una ubicación donde reciban al menos seis horas de luz solar directa al 
+día; de lo contrario, su crecimiento se vuelve lánguido y la producción de flores disminuye drásticamente. En cuanto al riego, la clave es la moderación: aunque prefieren un suelo constantemente 
+húmedo durante su etapa de crecimiento y floración, son extremadamente sensibles al encharcamiento, el cual puede asfixiar sus raíces y provocar enfermedades fúngicas como el oídio o la podredumbre. 
+Por ello, es imperativo contar con un sustrato bien drenado y enriquecido con materia orgánica, permitiendo que la capa superior de la tierra se seque ligeramente entre cada aporte de agua. Además, 
+para prolongar su ciclo de vida y mantener una estética impecable, es necesario realizar una poda de mantenimiento eliminando las flores marchitas de manera regular; esta práctica, conocida como 
+deadheading. </TD> 
+ </font>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="2" align="center"><font face="Display" size="6" color="red">Que simbolizan?</TH>
+<TR>
+<TR>
+<TD BGCOLOR="#ffccdd"> <Img src="girasol.jpg"></TD> 
+<td align="justify"> <font face="Display" size="5" color="black">Las margaritas no son solo elementos decorativos; cumplen funciones vitales tanto en la naturaleza como en el uso humano. En el ámbito ecológico, son fundamentales para la biodiversidad,
+ ya que actúan como una fuente constante de néctar para polinizadores como abejas y mariposas. En la medicina tradicional, se han utilizado históricamente en forma de infusiones o ungüentos 
+ gracias a sus propiedades depurativas, antiespasmódicas y cicatrizantes, ayudando a aliviar afecciones leves de la piel o problemas digestivos. Además, en el mundo del paisajismo y la agricultura, 
+ funcionan como excelentes cobertoras de suelo que previenen la erosión y, en algunos casos, se emplean en la gastronomía (especialmente la Bellis perennis) donde sus pétalos y hojas jóvenes se 
+ consumen en ensaladas por su alto contenido en vitamina C.</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="2" align="center"><font face="Display" size="6" color="red">Como cuidarlas?</TH>
+<TR>
+<tr>
+<TD BGCOLOR="#ffccdd"> <Img src="gira.png"></TD>
+<td align="justify"> <font face="Display" size="5" color="black"> Para que tus margaritas luzcan radiantes y saludables, el secreto principal reside en encontrar el equilibrio entre la luz solar y el riego. Estas flores aman el sol directo, por lo 
+ que necesitan al menos 6 horas de exposición diaria para florecer con fuerza; de lo contrario, sus tallos se estirarán buscando luz y perderán vigor. En cuanto al agua, prefieren un riego 
+ regular que mantenga la tierra húmeda pero nunca encharcada, ya que sus raíces son propensas a pudrirse si hay exceso de humedad; lo ideal es esperar a que la capa superior del sustrato 
+ se sienta seca al tacto antes de volver a regar. Además, es fundamental utilizar un suelo con buen drenaje y realizar una poda constante de las flores marchitas, técnica conocida como deadheading, 
+ la cual estimula a la planta a seguir produciendo nuevos brotes en lugar de gastar energía en formar semillas.</td>
+ </tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><A href="Index.html">
+<font face="Display" size="5" color="purple">
+Volver</TH> </TR>
+</font>
+</A>
+</table>
+</CENTER>
+</BODY>
+</HTML>

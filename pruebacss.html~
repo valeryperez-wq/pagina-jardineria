@@ -1,0 +1,64 @@
+Pequeñas partes de la página
+<p>
+Esto es un párrafo en varias palabras <SPAN style="color:green">en color verde</SPAN>. resulta muy
+fácil.
+</p>
+
+
+
+
+Estilo definido para una etiqueta
+<p style="color:#990000">
+Esto es un párrafo de color
+rojo.
+</p>
+<p style="color:#000099">
+Esto es un párrafo de color
+azul.
+</p>
+
+
+
+
+Estilo definido en una parte de la página
+<div style="color:#000099; font-weight:bold">
+<h3>Estas etiquetas van en <i>azul y
+negrita</i></h3>
+<p>
+Seguimos dentro del DIV, luego permanecen los etilos
+</p>
+</div>
+
+
+
+
+
+Ejemplo completo
+<html>
+<head>
+<title>Ejemplo de estilos para toda una p&aacute;gina</title>
+<STYLE type="text/css">
+<!--
+H1 {text-decoration: underline; text-align:center}
+P {font-Family:arial,verdana; color: white; background-color: black}
+BODY {color:black;background-color: #cccccc; text-indent:1cm}
+// -->
+</STYLE>
+</head>
+<body>
+<h1>estamos aprendiendo css</h1>
+Bienvenidos...
+<p>colegio nueva ciencia </p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+<HTML>
+<HEAD>
+<TITLE>
+Crisantemo
+</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+<BODY bgcolor="pink">
+<TABLE border="4" aling="center" cellspacing="5"cellpadding="5" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<h1> Crisantemo </h1> 
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="3">
+<H2>Una flor llena de belleza y color</H2>
+</TH>
+</TR>
+
+<TR>
+<TD COLSPAN="2">
+<H3>¿Qué es el crisantemo?</H3>
+El crisantemo es una planta herbácea perenne del género Chrysanthemum, nativa de Asia y el nordeste de Europa, que destaca por su gran variedad de formas y colores vibrantes en sus flores. Es una de las flores más cultivadas del mundo debido a su resistencia y a su característico florecimiento en otoño, cuando la mayoría de las demás plantas ya han marchitado. Además de su enorme valor ornamental en jardinería, posee una profunda carga simbólica: en la cultura oriental representa la longevidad, la nobleza y la felicidad, mientras que en varios países europeos se asocia tradicionalmente con el recuerdo de los difuntos y el Día de Todos los Santos.
+</TD>
+
+<TD>
+<IMG SRC="crisantemo1.jpg" ALT="Crisantemo">
+</TD>
+</TR>
+
+<TR BGCOLOR="#ffccdd">
+<TH><H3>Datos botánicos</H3></TH>
+<TH><H3>Características</H3></TH>
+<TH><H3>Variedades</H3></TH>
+</TR>
+
+<TR>
+<TD>
+Nombre científico: Chrysanthemum.
+
+Familia: Asteraceae.
+
+Tipo de planta: ornamental.
+
+Floración: muchas variedades florecen en otoño.
+</TD>
+
+<TD>
+Sus flores poseen numerosos pétalos, pueden crecer
+en distintas formas y destacan por su gran diversidad.
+Necesitan luz adecuada, tierra fértil y buen drenaje.
+</TD>
+
+<TD>
+Existen crisantemos blancos, amarillos, rosados,
+rojos, naranjas y morados. Algunos tienen pétalos
+largos, mientras que otros parecen pequeñas esferas.
+</TD>
+</TR>
+
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="3">
+<H2>Significado y cuidados</H2>
+</TH>
+</TR>
+
+<TR>
+<TD>
+<H3>Significado</H3>
+El crisantemo puede representar alegría, amistad,
+admiración y longevidad. Su significado cambia
+según el color y las tradiciones de cada cultura.
+</TD>
+
+<TD>
+<H3>Usos</H3>
+Se utiliza para decorar jardines, elaborar ramos,
+adornar celebraciones y crear arreglos florales.
+Sus diferentes colores permiten hacer combinaciones
+muy bonitas.
+</TD>
+
+<TD>
+<H3>Cuidados</H3>
+Necesita buena iluminación, riego moderado y tierra
+que permita salir al exceso de agua. También conviene
+retirar las flores marchitas y las hojas secas.
+</TD>
+</TR>
+
+<TR>
+<TD COLSPAN="3">
+<H2>¡Una flor que llena de vida cualquier jardín!</H2>
+El crisantemo demuestra que la naturaleza puede
+ofrecernos una enorme variedad de formas y colores.
+Con los cuidados adecuados, puede convertirse
+en una hermosa decoración para cualquier espacio.
+</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><A href="Index.html">
+<font face="Display" size="5" color="purple">
+Volver</TH> </tr>
+</font>
+</A>
+</table>
+</CENTER>
+</BODY>
+</HTML>
+
+</TABLE>
+</BODY>
+</HTML>

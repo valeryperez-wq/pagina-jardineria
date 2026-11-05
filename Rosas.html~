@@ -1,0 +1,54 @@
+ <HTML>
+<HEAD>
+<TITLE>
+Rosas
+</TITLE>
+</HEAD>
+<BODY bgcolor="pink">
+<TABLE border="10" cellspacing="20"cellpadding="20" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<th Colspan="6"align="center"><font face="Display" size="6" color="red">Rosas</th>
+</tr>
+<tr> 
+<TD BGCOLOR="#ffccdd" Colspan="2" width="500" heigth="400"> <Img src="rosasrojas.jpg"></TD> 
+<td BGCOLOR="#ffccdd" Colspan="2" width="500" heigth="400"> <Img src="podal.jpg"> </td>
+<td BGCOLOR="#ffccdd" Colspan="2" width="500" heigth="400"> <Img src="jardinderosas.png"> </td>
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><font face="Display" size="6" color="red">Que simbolizan?</TH>
+</tr>
+<TD colspan="3" align="justify">  <font face="Display" size="5" color="black">Las rosas son uno de los símbolos más potentes y versátiles de la cultura occidental,
+representando principalmente el amor, la belleza y la pasión. Sin embargo, su significado trasciende el romanticismo; debido a su fragilidad protegida por espinas, 
+simbolizan la dualidad entre el placer y el dolor, o la idea de que la verdadera belleza conlleva sacrificio. Dependiendo de su color, este simbolismo se matiza:
+mientras que las rojas aluden al deseo ardiente, las blancas evocan la pureza e inocencia, las amarillas la amistad y las rosadas el agradecimiento y la simpatía.
+En un sentido más espiritual o místico, la rosa también se asocia con el secreto (de ahí la expresión latina sub rosa) y la búsqueda de la perfección o el centro del alma.
+<TD colspan="3" align="justify">  <font face="Display" size="5" color="black">Históricamente, las rosas han sido consideradas las "reinas de las flores", funcionando como
+un emblema de perfección y renacimiento. Su estructura circular y sus pétalos infinitos sugieren una conexión con la eternidad y los ciclos de la vida, mientras que su aroma 
+embriagador se asocia a menudo con la memoria y el recuerdo de seres queridos. Más allá del afecto, en la literatura y el arte, la rosa representa la confidencialidad y 
+la lealtad, actuando como un recordatorio de que lo más valioso suele estar protegido por una coraza natural. Así, esta flor no solo comunica sentimientos pasajeros, 
+sino que encarna la resiliencia de la naturaleza que florece con elegancia a pesar de las adversidades.
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><font face="Display" size="6" color="red">Como cuidarlas?</TH>
+</tr>
+<tr>
+<TD colspan="6" align="justify">  <font face="Display" size="5" color="black">Para que las rosas prosperen y luzcan radiantes, es fundamental garantizarles al menos seis
+ horas de sol directo al día y un suelo con excelente drenaje para evitar que las raíces se pudran. El riego debe ser constante, preferiblemente aplicado directamente a la 
+ base de la planta para mantener las hojas secas y prevenir enfermedades fúngicas como el mildiu. Además, una poda regular al final del invierno permite eliminar la madera 
+ muerta y estimular nuevos brotes, mientras que el uso de fertilizantes específicos durante la época de floración asegura que la planta tenga los nutrientes necesarios para 
+ producir flores grandes y aromáticas. Mantener el entorno limpio de malezas y aplicar una capa de mantillo ayudará a conservar la humedad y proteger la salud general del rosal.
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><A href="Index.html">
+<font face="Display" size="5" color="purple">
+Volver</TH> </tr>
+</font>
+</A>
+</table>
+</CENTER>
+</BODY>
+</HTML>
+
+
+
+ 

@@ -1,0 +1,65 @@
+<HTML>
+<HEAD>
+<TITLE>
+Clavel
+</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+<BODY bgcolor="pink">
+<TABLE border="4" aling="center" cellspacing="5"cellpadding="3" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<h1> Clavel </h1>
+<TABLE border="4" align="center" cellspacing="5" cellpadding="3" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<TH>Claveles</TH>
+<TH>Colores</TH>
+<TH>Significado</TH>
+<TH>Cantidad de agua requerida</TH>
+<TH>Tamaño</TH>
+</TR>
+
+<TR>
+<TD><img src="clavel.jpg"></td>
+<TD> Rojo </TD>
+<Td> El clavel rojo es una de las flores más cargadas de simbolismo en todo el mundo, y su significado principal gira en torno al amor profundo, la admiración ferviente y la pasión intensa. A nivel afectivo, regalar un clavel rojo es una declaración directa de un sentimiento puro y vigoroso, diferenciándose de otras tonalidades al evocar un misticismo que une el romance con la devoción absoluta. Sin embargo, su carga histórica y cultural se extiende mucho más allá del ámbito romántico. En el contexto social y político, el clavel rojo es un emblema universal de la lucha obrera, el socialismo y la revolución, alcanzando su máximo apogeo histórico durante la Revolución de los Claveles de 1974 en Portugal, donde los ciudadanos colocaron estas flores en las bocas de los fusiles de los soldados para simbolizar una transición pacífica hacia la democracia. Asimismo, en el plano religioso y de la tradición popular, se le asocia fuertemente con el respeto y el recuerdo de los seres queridos que ya han partido, siendo una flor fundamental en altares y homenajes fúnebres como símbolo de un afecto que trasciende la muerte. </TD>
+<TD>800 y 1.000 litros de agua por metro cuadrado al año</TD>
+<TD>hasta 65-80 cm en variedades comerciales o de corte.</TD>
+</TR>
+
+<TR>
+<TD><img src="clavel1.jpg"></TD>
+<TD> Rosado </TD>
+<TD>El clavel rosado es una flor cargada de un profundo simbolismo emocional e histórico, representando principalmente el amor maternal, la gratitud y el recuerdo afectuoso. De acuerdo con la leyenda cristiana, se cree que estas flores brotaron de la tierra justo en los lugares donde cayeron las lágrimas de la Virgen María durante la crucifixión de Jesús, razón por la cual se convirtieron en el símbolo universal del amor incondicional, protector y eterno de una madre. Debido a este fuerte vínculo espiritual y cultural, el clavel rosado es la flor emblemática y tradicional que se obsequia durante el Día de la Madre en gran parte del mundo. Más allá del ámbito familiar, regalar un clavel en tonos rosados es una forma elegante y sincera de manifestar un profundo agradecimiento, admiración y aprecio hacia una persona especial, transmitiendo un mensaje de afecto tierno que, a diferencia del clavel rojo, no está necesariamente vinculado a la pasión romántica, sino a una devoción pura, a la lealtad y a la promesa de no olvidar jamás a quien lo recibe.</TD>
+<TD> 800 y 900 litros de agua por metro cuadrado al año</TD>
+<TD>altura de tallo que oscila entre los 45 y 60 cm</TD>
+</TR>
+
+<TR>
+<TD><img src="clavel2.jpg.webp"></TD>
+<TD>Blanco</TD>
+<TD> El clavel blanco es una de las flores más ricas en simbolismo dentro del lenguaje de la floriografía, representando principalmente la pureza, la inocencia y el amor puro o maternal. Desde una perspectiva espiritual y cultural, esta flor evoca un sentimiento de honestidad profunda y fidelidad inquebrantable, razón por la cual se utiliza con frecuencia en ramos de novia, bautizos y ceremonias religiosas para reflejar un compromiso sincero y el inicio de una nueva etapa con el alma limpia. Asimismo, el clavel blanco está estrechamente vinculado con el recuerdo afectuoso y el respeto hacia los seres queridos que ya han partido, sirviendo como un símbolo de paz, gratitud y memoria eterna en momentos de duelo. Su belleza sencilla pero elegante transmite una sensación de calma, serenidad y espiritualidad, convirtiéndolo en el obsequio perfecto para expresar buenos deseos, admiración genuina, buena suerte y un amor que trasciende lo terrenal sin matices de doble intención.</TD>
+<TD>870 a 1.000 litros por metro cuadrado al año</TD>
+<TD> 55 centímetros.</TD>
+</TR>
+
+</TABLE>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

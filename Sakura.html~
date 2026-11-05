@@ -1,0 +1,232 @@
+<HTML>
+<HEAD>
+<TITLE>
+Sakura
+</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+<BODY bgcolor="pink">
+<TABLE border="4" aling="center" cellspacing="5"cellpadding="5" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+    <H1>🌸 Sakura</H1>
+<CENTER>
+<P>
+Un hermoso símbolo de la primavera, la belleza y los nuevos comienzos.
+</P>
+</CENTER>
+<TABLE border="5" align="center" cellspacing="5" cellpadding="10" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2> Descubre la magia de Sakura </H2>
+</TH>
+</TR>
+<TR>
+<TD WIDTH="50%">
+<H3> ¿Qué es la flor Sakura? </H3>
+La flor de sakura, conocida popularmente como la flor del cerezo, es uno de los símbolos más emblemáticos y significativos de la cultura japonesa. Esta flor, caracterizada por sus delicados tonos rosados y blancos, florece de manera espectacular durante la primavera, marcando el inicio de una época de renovación y el fin del invierno. Debido a que su período de floración es sumamente breve —apenas dura una o dos semanas antes de que los pétalos caigan—, la sakura representa en el budismo y la filosofía japonesa la naturaleza efímera de la vida, la belleza de la impermanencia y la importancia de valorar el momento presente.
+<BR><BR>
+<IMG SRC="sakura.jpg" ALT="Flores Sakura rosadas">
+</TD>
+<TD WIDTH="50%">
+<H3> Origen e historia </H3>
+ Es originaria de Asia Oriental y tiene su mayor desarrollo histórico y cultural en Japón, donde se cultiva desde hace más de mil años. Durante el siglo VIII (era Nara), la corte imperial admiraba originalmente la flor de ciruelo (ume), pero para el período Heian (794–1185) el sakura ganó protagonismo hasta convertirse en la flor nacional por excelencia. Tradicionalmente, su efímera floración en primavera se celebra con el hanami (el acto de contemplar las flores) y simboliza la belleza fugaz de la vida, la renovación y la transitoriedad (mono no aware).
+<BR><BR>
+<IMG SRC="sakura1.jpg" ALT="Árboles de cerezo en Japón">
+</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2> Características principales </H2>
+</TH>
+</TR>
+<TR>
+<TD>
+<H3> Colores y apariencia </H3>
+Sus flores pueden ser blancas, rosadas o de tonos rosa intenso. Generalmente tienen cinco pétalos, aunque algunas variedades presentan flores con muchos más pétalos.
+<BR><BR>
+<IMG SRC="sakura2.jpg" ALT="Pétalos de Sakura">
+</TD>
+<TD>
+<H3> Época de floración </H3>
+La floración ocurre principalmente en primavera. En Japón, el momento exacto cambia según la región, el clima y la variedad del cerezo.
+<BR><BR>
+<IMG SRC="sakura3.jpg" ALT="Sakura durante la primavera">
+</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2> Datos curiosos 🌸 </H2>
+</TH>
+</TR>
+<TR>
+<TD COLSPAN="2">
+Un dato curioso y profundamente arraigado en la cultura japonesa sobre la flor de sakura (el cerezo en flor) es que su espectacular y masiva floración dura apenas un suspiro, aproximadamente una o dos semanas, lo que las convierte en el símbolo máximo de la filosofía de la impermanencia y la belleza efímera de la vida. Este fenómeno natural no solo marca el inicio de la primavera, sino que da origen al hanami, una tradición milenaria en la que familias, amigos y compañeros de trabajo se reúnen bajo los árboles para hacer pícnics, beber sake y contemplar la caída de los pétalos. Lo verdaderamente fascinante es el nivel de precisión cultural y científica con el que Japón sigue este evento: la Agencia Meteorológica de Japón monitorea meticulosamente el frente de floración del cerezo (conocido como sakurazensen) mediante árboles de muestra específicos en cada región, emitiendo pronósticos diarios en los telediarios para que la población sepa exactamente cuándo ocurrirá el kaika (la apertura de las primeras flores) y el mankai (el pico de la floración completa). 
+<CENTER>
+<H3> ¡Sakura, una belleza que nos recuerda disfrutar cada instante! </H3>
+</CENTER>
+</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><A href="Index.html">
+<font face="Display" size="5" color="purple">
+Volver</TH> </tr>
+</font>
+</A>
+</table>
+</CENTER>
+</BODY>
+</HTML>
+
+</TABLE>
+</BODY>
+</HTML>
+
+
+<HTML>
+<HEAD>
+<TITLE>
+Sakura
+</TITLE>
+</HEAD>
+
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+
+<BODY bgcolor="pink">
+
+<CENTER>
+
+<H1>🌸 Sakura</H1>
+
+<P>
+Un hermoso símbolo de la primavera, la belleza y los nuevos comienzos.
+</P>
+
+<TABLE border="5" align="center" cellspacing="8" cellpadding="15" WIDTH="85%" BGCOLOR="#fff0f5">
+
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2>Descubre la magia de Sakura</H2>
+</TH>
+</TR>
+
+<TR>
+
+<TD WIDTH="50%" align="justify" valign="top">
+<H3>¿Qué es la flor Sakura?</H3>
+
+La flor de sakura, conocida popularmente como la flor del cerezo, es uno de los símbolos más emblemáticos y significativos de la cultura japonesa. Esta flor, caracterizada por sus delicados tonos rosados y blancos, florece de manera espectacular durante la primavera, marcando el inicio de una época de renovación y el fin del invierno. Debido a que su período de floración es sumamente breve —apenas dura una o dos semanas antes de que los pétalos caigan—, la sakura representa en el budismo y la filosofía japonesa la naturaleza efímera de la vida, la belleza de la impermanencia y la importancia de valorar el momento presente.
+
+<BR><BR>
+
+<CENTER>
+<IMG SRC="sakura.jpg" ALT="Flores Sakura rosadas" WIDTH="230">
+</CENTER>
+</TD>
+
+<TD WIDTH="50%" align="justify" valign="top">
+<H3>Origen e historia</H3>
+
+Es originaria de Asia Oriental y tiene su mayor desarrollo histórico y cultural en Japón, donde se cultiva desde hace más de mil años. Durante el siglo VIII (era Nara), la corte imperial admiraba originalmente la flor de ciruelo (ume), pero para el período Heian (794–1185) el sakura ganó protagonismo hasta convertirse en la flor nacional por excelencia. Tradicionalmente, su efímera floración en primavera se celebra con el hanami (el acto de contemplar las flores) y simboliza la belleza fugaz de la vida, la renovación y la transitoriedad (mono no aware).
+
+<BR><BR>
+
+<CENTER>
+<IMG SRC="sakura1.jpg" ALT="Árboles de cerezo en Japón" WIDTH="230">
+</CENTER>
+</TD>
+
+</TR>
+
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2>Características principales</H2>
+</TH>
+</TR>
+
+<TR>
+
+<TD align="justify" valign="top">
+<H3>Colores y apariencia</H3>
+
+Sus flores pueden ser blancas, rosadas o de tonos rosa intenso. Generalmente tienen cinco pétalos, aunque algunas variedades presentan flores con muchos más pétalos.
+
+<BR><BR>
+
+<CENTER>
+<IMG SRC="sakura2.jpg" ALT="Pétalos de Sakura" WIDTH="230">
+</CENTER>
+</TD>
+
+<TD align="justify" valign="top">
+<H3>Época de floración</H3>
+
+La floración ocurre principalmente en primavera. En Japón, el momento exacto cambia según la región, el clima y la variedad del cerezo.
+
+<BR><BR>
+
+<CENTER>
+<IMG SRC="sakura3.jpg" ALT="Sakura durante la primavera" WIDTH="230">
+</CENTER>
+</TD>
+
+</TR>
+
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">
+<H2>Datos curiosos 🌸</H2>
+</TH>
+</TR>
+
+<TR>
+<TD COLSPAN="2" align="justify">
+
+Un dato curioso y profundamente arraigado en la cultura japonesa sobre la flor de sakura (el cerezo en flor) es que su espectacular y masiva floración dura apenas un suspiro, aproximadamente una o dos semanas, lo que las convierte en el símbolo máximo de la filosofía de la impermanencia y la belleza efímera de la vida. Este fenómeno natural no solo marca el inicio de la primavera, sino que da origen al hanami, una tradición milenaria en la que familias, amigos y compañeros de trabajo se reúnen bajo los árboles para hacer pícnics, beber sake y contemplar la caída de los pétalos. Lo verdaderamente fascinante es el nivel de precisión cultural y científica con el que Japón sigue este evento: la Agencia Meteorológica de Japón monitorea meticulosamente el frente de floración del cerezo (conocido como sakurazensen) mediante árboles de muestra específicos en cada región, emitiendo pronósticos diarios en los telediarios para que la población sepa exactamente cuándo ocurrirá el kaika (la apertura de las primeras flores) y el mankai (el pico de la floración completa).
+
+<CENTER>
+<H3>¡Sakura, una belleza que nos recuerda disfrutar cada instante!</H3>
+</CENTER>
+
+</TD>
+</TR>
+
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2" align="center">
+<A href="Index.html">
+<FONT face="Display" size="5" color="purple">
+Volver
+</FONT>
+</A>
+</TH>
+</TR>
+
+</TABLE>
+
+</CENTER>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

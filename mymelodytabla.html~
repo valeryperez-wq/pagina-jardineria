@@ -1,0 +1,27 @@
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<TABLE border=”5” cellspacing="20"cellpadding="20">
+<TR>
+<TH colspan="6" align="center">MY MELODY</TH>
+<TR>
+<TD width="400" heigth="250"><Img src="kurom2.png"></TD>
+<TD ROWSPAN="4" align="justify"> My Melody es uno de los personajes más icónicos de la compañía japonesa Sanrio, presentada originalmente en 1975 como una tierna coneja que siempre lleva una caperuza 
+rosa (o roja) que cubre sus orejas. Se caracteriza por ser extremadamente dulce, honesta y optimista, personificando la bondad pura. Su relación con Kuromi —una coneja de aspecto "punk" con una 
+capucha negra y una calavera— es una de las dinámicas más queridas del universo Sanrio, definida como una rivalidad amistosa o una relación de opuestos. Mientras que Kuromi ve a My Melody como su 
+rival debido a incidentes del pasado (donde la torpeza e inocencia de My Melody solía meter a Kuromi en problemas sin querer), My Melody la considera una de sus mejores amigas y siempre busca 
+su bienestar. Esta dualidad entre la luz y la sombra, o lo "cute" y lo "rebelde", ha convertido su vínculo en un símbolo de cómo personalidades totalmente opuestas pueden coexistir y 
+apreciarse a pesar de sus diferencias.</TD>
+<TD><Img src="kurom.jpg"></TD>
+</TR>
+<TR>
+<TD><Img src="kuroandmy.webp"></TD> <TD><Img src="melody.jpg"></TD>
+</TR>
+<TR>
+<TD><Img src="mymelody.jpg"></TD> <TD><Img src="mimi.jpg"></TD>
+</TR>
+<table summary="" >
+</table>

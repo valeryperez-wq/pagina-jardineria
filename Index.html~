@@ -1,0 +1,155 @@
+
+<HEAD>
+<TITLE>
+kuromi
+</TITLE>
+</HEAD>
+<title>Menu Desplegable</title>
+<BODY bgcolor="pink">
+<CENTER>
+<FONT face="Arial" color="red">
+</FONT>
+<TABLE BORDER="2" CELLPADDING="10" CELLSPACING="10" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="4" align="center"><font face="Display" size="6" color="red"> Jardin </TH>
+<style type="text/css">
+			
+			* {
+				margin:2px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:700px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#ffccdd;
+				color:black;
+				text-decoration:none;
+				padding:8px 10px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#fff0f5;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:110px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-110px;
+				top:3px;
+			}
+			
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="Index.html">Inicio</a></li>
+				<li><a href="">Flores</a>
+					<ul>
+						<li><a href="tulipanes.html">Tulipanes</a></li>
+						<li><a href="margaritas.html">Margaritas</a></li>
+						<li><a href="Rosas.html">Rosas</a></li>
+						<li> <a href="Jazmin.html"> Jazmin</a></li>
+						<li> <a href="Nubes.html"> Nubes </a></li>
+						<li> <a href="Hortensia.html"> Hortensia </a></li>
+						</li>
+					</ul>
+				</li>
+				<li><a href="">Botanicas</a>
+					<ul>
+					<li><a href="lirios.html"> Lirios </a></li>
+					<li><a href="liriosdearaña.html">Lirios de Araña</a></li>
+						<li><a href="Orquideas.html">Orquideas</a></li>
+						<li><a href="lavanda.html">Lavanda</a></li>
+						<li><a href="Amapola.html">Amapola</a></li>
+						<li> <a href="Astromelia.html"> Astromelia </a></li>
+					</ul>
+				</li>
+					<li><a href="">Silvestres</a>
+					<ul>
+					<li><a href="girasoles.html">Girasoles</a>
+				<li><a href="flordeloto.html">Flor de Loto</a></li>
+				<li><a href="Violeta.html">Violeta</a></li>
+				<li><a href="peonia.html">Peonia</a></li>
+				<li><a href="clavel.html">Clavel</a></li>
+				<li> <a href="Azalea.html"> Azalea </a></li>
+					</ul>
+				</li>
+						<li><a href="">Contacto</a>
+						<ul><li><a href="formular.html">Formulario</a></ul>
+						
+						
+			</ul>
+		</div>
+</tr>
+<tr BGCOLOR="#ffccdd">
+<td colspan="" align="center" > <img src="perdida.png.jpg"> </td>
+<td colspan="" align="center" ><img src="mijardin.png"> </td>
+<td colspan="" align="center" > <img src="bosque.png.jpg"> </td>
+<td colspan="" align="center" > <img src="mimi.jpg" > </td>
+</tr>
+<tr>
+ <td Colspan="5" align="justify"> <font face="Display" size="4.5" color="black">  <p> Hola, soy Kuromi, la rebelde más adorable que conocerás. Me encanta causar un poco de caos, pero siempre con estilo y una sonrisa traviesa. Aunque
+muchos piensan que soy mala, en realidad tengo un corazón suave y sueños dulces, como escribir en mi diario y disfrutar de mis cosas favoritas.
+ Mi gorro negro con calavera rosa es mi sello personal, y siempre estoy lista para demostrar que ser diferente es lo que te hace especial. ¿Te atreves a ser mi amigo?
+ Kuromi se autoproclama la doble rival de My Melody y, aunque pueda parecer dura, en realidad es muy femenina. Los puntos fuertes de Kuromi son su capucha negra y su
+  calavera rosa; le encantan los chicos guapos y escribir en su diario. En un viaje con mis compañeros cruzamos un bosque y nos encontramos perdidas y en nuestro transcurso de viaje
+nos encontramos un jardin en ruinas donde nos encontramos con un manual, decia que si lograbamos recuperar su jardin
+nos daria un mapa para que pudieramos regresar a casa, en el manual estaba toda la informacion y todos los recursos
+para embellecer ese lugar. Nos quedamos durante 6 meses y alli aprendi todo sobre plantas y ahora vendre a enseñarte cada
+una de las cosas que aprendi.Kuromi es la personificación del estilo "tomboy" y travieso dentro de Sanrio, ganando una inmensa popularidad por romper con el molde de la ternura convencional. Líder
+ de una pandilla de motociclistas conocida como "Kuromi's 5", este pequeño conejo blanco con estética dark-chic se distingue por su energía caótica y su actitud desafiante. A pesar de que 
+  pasatiempo favorito es causar travesuras (especialmente para fastidiar a My Melody), Kuromi conecta con el público moderno porque muestra una personalidad multifacética:
+ es fuerte y decidida, pero también es una romántica empedernida que adora los chicos guapos y el color rosa. Es, en esencia, el equilibrio perfecto entre la rebeldía juvenil y la sensibilidad 
+ emocional.</font> </td> </p>
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH Colspan="4" ALIGN="center">
+<font face="Display" size="6" color="red">
+Dato Curioso
+</font>
+</TH>
+</tr>
+<tr>
+<td BGCOLOR="#ffccdd"> <img src="kuro.jpg.avif" alt="" /> </td> 
+<td Colspan="2" align="justify"> <font face="Display" size="4.5" color="black"> <p> Aunque su apariencia de "chica mala" con su capucha negra y la calavera rosa sugiere que es la villana de la historia,
+ Kuromi tiene un lado sorprendentemente femenino y tierno. Le encanta escribir en su diario, leer novelas románticas y es una excelente cocinera. De hecho, su color favorito es el negro, pero su 
+ pasatiempo secreto es coleccionar cosas que son extremadamente cursis, demostrando que su actitud de "punk" es más una forma de expresar su independencia que una verdadera malicia. Otro detalle 
+ fascinante es el origen de su rivalidad con My Melody. Todo comenzó por una serie de malentendidos accidentales durante su infancia; Kuromi siente que My Melody arruinó momentos importantes de 
+ su vida (como cuando My Melody arrancó accidentalmente una página del diario de Kuromi para limpiar la nariz de alguien). A pesar de que Kuromi lidera a su propia pandilla de motociclistas, las 
+ Kuromi's 5, y jura que My Melody es su archienemiga, en el fondo mantienen una conexión innegable que las convierte en una de las parejas más icónicas del mundo de Sanrio..</font> </td>
+<td BGCOLOR="#ffccdd"> <img src="mi.jpg.avif" alt="" /> </td> </p>
+</tr>
+
+</table> 
+</CENTER>
+</BODY>
+</HTML>
+
+

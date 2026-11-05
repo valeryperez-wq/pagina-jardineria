@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>
+Lavanda
+</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+<BODY bgcolor="pink">
+<TABLE border="10" aling="center" cellspacing="20"cellpadding="20" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<h1> Lavanda </h1> 
+<tr>
+<td colspan="5"> La lavanda es una planta aromática mediterránea muy valorada por su belleza ornamental de tonos violetas y sus múltiples propiedades terapéuticas. Su distintivo aceite esencial se utiliza ampliamente en aromaterapia para reducir el estrés y combatir el insomnio debido a sus efectos calmantes. Además, posee cualidades antisépticas y antiinflamatorias que benefician el cuidado de la piel y es un imán natural para los polinizadores en jardines soleados.</td>
+</tr>
+<tr>
+<td colspan="5" align="center"> <h2> Fotos</h2> </td>
+</tr>
+<tr>
+<td>  <Img src="lavanda.jpeg"></TD>
+<td>  <Img src="lavanda1.jpg"></TD>
+<tr>
+<td colspan="5" align="center"> <h2> ¿Cuidados?</h2> </td>
+</tr>
+<td colspan="5"> Para cuidar adecuadamente la planta de lavanda y asegurar su florecimiento, es fundamental recrear las condiciones de su hábitat mediterráneo nativo, lo que se traduce en un riego moderado, una exposición solar plena y un suelo con excelente drenaje. Esta planta aromática es altamente resistente a la sequía y propensa a pudrirse si acumula humedad en sus raíces, por lo que el error más común es el exceso de agua; se recomienda regarla únicamente cuando el sustrato esté completamente seco, aplicando el agua directamente sobre la tierra sin mojar sus hojas ni flores. En cuanto a su ubicación, la lavanda necesita recibir un mínimo de seis horas de luz solar directa al día, lo que estimula la producción de sus aceites esenciales y la intensidad de su característico color morado. El suelo ideal debe ser de naturaleza arenosa, calcárea o pedregosa, con un pH neutro o ligeramente alcalino; si se cultiva en maceta, es crucial utilizar un recipiente con agujeros de drenaje y una capa de grava en el fondo para evitar encharcamientos. Finalmente, la poda es un paso clave en su mantenimiento: debe realizarse una poda ligera a finales del verano o principios del otoño, justo después de la floración, recortando los tallos secos para mantener una forma compacta y arbustiva, evitando siempre cortar la madera vieja y dura, ya que esto podría impedir que la planta vuelva a brotar con fuerza en la siguiente primavera.</td> 
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="5" align="center"><A href="Index.html">
+<p> Volver </p> </TH> 
+</a>
+</table> 
+</CENTER>
+</BODY>
+</HTML>
+
+
+
+
+
+

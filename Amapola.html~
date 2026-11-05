@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+<TITLE>
+Amapola
+</TITLE>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+</HEAD>
+<BODY bgcolor="pink">
+
+<h1> Amapola </h1>
+
+<TABLE border="5" align="center" cellspacing="5" cellpadding="5" WIDTH="100%" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<TH COLSPAN="2">Flor y Visualización</TH>
+<TH COLSPAN="2">Cuidados y Simbolismo</TH>
+</TR>
+
+<TR>
+<TH ROWSPAN="2">Rojas</TH>
+<TD><img src="amapola.jpg"></TD>
+<TD>El cuidado de las amapolas rojas (Papaver rhoeas) es relativamente sencillo debido a su naturaleza rústica y silvestre, pero requiere atención en puntos clave como la luz solar y el drenaje del suelo para que prosperen con éxito. Estas plantas necesitan una exposición a pleno sol, requiriendo un mínimo de seis horas de luz directa al día para desarrollar sus característicos e intensos pétalos carmesí. En cuanto al terreno, se adaptan bien a suelos pobres, calcáreos o arenosos, pero es fundamental que el sustrato sea extremadamente permeable, ya que el estancamiento de agua pudre sus raíces con facilidad; por ello, no toleran los suelos arcillosos o compactos a menos que se mezclen con arena de río o perlita. El riego debe ser moderado y espaciado, aplicando agua solo cuando la capa superior del suelo esté completamente seca, y reduciéndolo aún más una vez que la planta ha florecido.</TD>
+<td> <b> significado:</b>el recuerdo, el sacrificio en la guerra y la paz, además de simbolizar el sueño y el consuelo.
+<TR>
+<TD COLSPAN="3"><b>Cuidados Clave:</b>mucha luz solar directa, riego escaso y un suelo que no acumule agua.</TD>
+</TR>
+
+<TR>
+<TH ROWSPAN="2">Moradas</TH>
+<TD><img src="amapola1.jpg"></TD>
+<TD>Las amapolas moradas, conocidas científicamente como Roemeria hybrida o dentro de la familia de las papaveráceas, requieren de una exposición a pleno sol recibiendo entre 6 y 8 horas de luz directa al día para desarrollarse con fuerza y regios tonos. En cuanto al sustrato, prefieren suelos pobres en materia orgánica, sueltos y con un drenaje excelente, ya que no toleran en absoluto los encharcamientos que pudren sus raíces. Los riegos deben ser moderados y espaciados, calculando una vez por semana o dejando secar la tierra por completo entre un riego y otro. Asimismo, es fundamental sembrarlas de forma directa en su ubicación definitiva, pues odian los trasplantes debido a la delicadeza de su sistema radicular.</TD>
+<td> <b> significado:</b>el recuerdo y el luto por los animales que sirvieron y perdieron la vida en los conflictos bélicos. </td>
+</TR>
+<TR>
+<TD COLSPAN="3"><b>Cuidados Clave:</b> necesita pleno sol y un suelo muy bien drenado para crecer sana.</TD>
+</TR>
+
+<TR>
+<TH ROWSPAN="2">Variadas</TH>
+<TD><img src="amapola2.jpg"></TD>
+<TD>El cultivo exitoso de las amapolas (Papaver) requiere atención a sus necesidades específicas de suelo, luz y riego, ya que son plantas que prosperan bajo condiciones de mínimo estrés radicular y máxima exposición solar. Para empezar, estas flores deben ubicarse a pleno sol, recibiendo al menos seis horas de luz directa al día para garantizar una floración vigorosa y tallos fuertes que no se doblen. El suelo es quizás el factor más crítico: requieren un sustrato extremadamente bien drenado, preferiblemente fértil, suelto y de naturaleza franco-arenosa, ya que el estancamiento de agua pudre sus raíces con mucha facilidad. En cuanto al riego, este debe ser moderado y regular durante la etapa de germinación y crecimiento inicial, manteniendo la tierra ligeramente húmeda pero nunca encharcada; se aplica agua solo cuando los primeros centímetros del suelo estén completamente secos.</TD>
+<td> <b> significado:</b> el recuerdo, la paz, la fragilidad y el consuelo </td>
+</TR>
+<TR>
+<TD COLSPAN="3"><b>Cuidados Clave:</b>el sol directo, el riego moderado y un suelo con excelente drenaje.</TD>
+</TR>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="6" align="center"><A href="Index.html">
+<font face="Display" size="5" color="purple">
+Volver</TH> </tr>
+</font>
+</A>
+</table>
+</CENTER>
+</BODY>
+</HTML>
+
+
+
+
+</TABLE>
+</BODY>
+</HTML>

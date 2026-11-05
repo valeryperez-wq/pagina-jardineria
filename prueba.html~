@@ -1,0 +1,27 @@
+<html>
+<HEAD>
+<TITLE>
+Prueba
+</TITLE>
+</HEAD>
+<BODY> <p>
+Esto es un párrafo en varias palabras <SPAN style="color:pink">en color verde</SPAN>. resulta muy
+fácil.
+</p>
+<p style="color:#990000">
+Esto es un párrafo de color
+rojo.
+</p>
+<p style="color:#000099">
+Esto es un párrafo de color
+azul.
+</p>
+<div style="color:#000099; font-weight:bold">
+<h3>Estas etiquetas van en <i>azul y
+negrita</i></h3>
+<p>
+Seguimos dentro del DIV, luego permanecen los etilos
+</p>
+</div>
+</p> </body>
+</html>

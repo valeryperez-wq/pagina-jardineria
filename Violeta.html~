@@ -1,0 +1,54 @@
+<HTML>
+<HEAD>
+<TITLE>
+Violeta
+</TITLE>
+</HEAD>
+<link rel="stylesheet" type="text/css" href="estilos.css" media="screen"/>
+<BODY bgcolor="pink">
+<TABLE border="10" aling="center" cellspacing="20"cellpadding="20" BGCOLOR="#fff0f5">
+<TR BGCOLOR="#ffccdd">
+<h1> Violeta </h1> 
+<tr> 
+<td>  <Img src="violeta.jpeg"></TD>
+<td> La flor violeta, conocida comúnmente como la violeta, es una pequeña planta que destaca por su delicadeza, su profundo simbolismo y sus vibrantes pétalos en tonos morados, púrpuras e incluso azulados. Perteneciente al género Viola, esta flor suele crecer en bosques sombríos, prados frescos y zonas templadas del planeta, donde destaca a pesar de su tamaño humilde gracias a un aroma suave e inconfundible. A lo largo de la historia, las violetas han capturado la imaginación de poetas, artistas y botánicos por igual: en la antigua Grecia eran consideradas un símbolo de fertilidad y de la primavera, mientras que durante la época victoriana se asociaban con la modestia, la humildad y la fidelidad hacia la persona amada. Más allá de su innegable valor ornamental en jardines y arreglos florales, la flor violeta posee propiedades apreciadas en la perfumería clásica por su esencia dulce y envolvente, e incluso se utiliza en la gastronomía para decorar postres refinados, elaborar jarabes o infundir tés. Su resistencia para florecer al final del invierno o a principios de la primavera la convierte en un hermoso recordatorio de la naturaleza que renace con fuerza, elegancia y sencillez.</td>
+<td> <Img src="violeta4.jpg"></TD>
+</tr>
+<tr>
+<td colspan="5" align="center"> <h2> significado </h2> </td>
+</tr>
+<tr>
+<td colspan="5"> El significado de la flor violeta está profundamente ligado a la humildad, la fidelidad y la serenidad espiritual a lo largo de diversas culturas e historias. Debido a su hábito de crecer cerca del suelo y resguardarse bajo sus propias hojas de forma discreta, en la era victoriana se convirtió en el emblema por excelencia de la modestia y la devoción sincera, regalándose para transmitir afecto profundo sin presunción ni extravagancia. Por otra parte, su característico matiz púrpura —históricamente vinculado con la nobleza y la alta espiritualidad— le otorga una dimensión mística asociada con la calma mental, la intuición y la transmutación de pensamientos negativos hacia estados de paz interior. En la mitología clásica griega y romana, esta pequeña flor se conectaba con el renacimiento primaveral, la pureza de los afectos y el amor eterno que trasciende el tiempo. Hoy en día, obsequiar o contemplar una violeta representa un mensaje silencioso pero poderoso de lealtad, constancia y empatía, recordando la belleza que habita en la sencillez, en la calma emocional y en los vínculos afectivos honestos y duraderos.</td>
+</tr>
+<tr>
+<td colspan="5" align="center"> <h2> ¿Cuidados?</h2> </td>
+</tr>
+<tr> 
+<td> <Img src="violeta3.jpg"></TD>
+<td> El cuidado adecuado de la flor violeta requiere atención constante a la luz, el riego y la temperatura para garantizar que mantenga sus pétalos vibrantes y florezca de forma saludable. Esta planta prefiere estar ubicada en un espacio muy luminoso pero protegido del sol directo, ya que sus hojas y delicados pétalos pueden quemarse fácilmente si reciben radiación solar intensa; una ventana orientada al este o con cortinas ligeras resulta ideal. El riego es uno de los aspectos más críticos: el sustrato debe mantenerse ligeramente húmedo pero nunca encharcado, evitando a toda costa mojar las hojas y el centro de la planta para prevenir la aparición de hongos o la pudrición de las raíces, por lo que el método de riego por subirrigación —colocando la maceta sobre un plato con agua durante unos minutos y retirando el exceso después— es altamente recomendable. En cuanto al suelo, requiere un sustrato suelto, bien drenado y rico en materia orgánica, combinado con una maceta con buenos orificios de drenaje. </td>
+<td> <Img src="violeta2.jpg"></TD>
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TH colspan="5" align="center"><A href="Index.html">
+<p> Volver </p> </TH> 
+</a>
+</table> 
+</CENTER>
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

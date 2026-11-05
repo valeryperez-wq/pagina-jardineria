@@ -1,0 +1,90 @@
+<HTML>
+<HEAD>
+<TITLE>
+Orquideas
+</TITLE>
+</HEAD>
+<BODY bgcolor="pink">
+<CENTER>
+<FONT face="Arial" color="red">
+<H2> Orquideas </H2>
+</FONT>
+<TABLE border="10" cellspacing="20"cellpadding="20" BGCOLOR="#fff0f5">
+<tr BGCOLOR="#ffccdd">
+<TH colspan="2" align="center"><font face="Display" size="6" color="red"> Orquideas </th>
+<TH colspan="2" align="center"><font face="Display" size="6" color="red">Significado </th>
+</tr>
+<tr BGCOLOR="#ffccdd">
+<TH align="center"><font face="Display" size="6" color="red">Tipos</th>
+<TH align="center"><font face="Display" size="6" color="red">Cuidados</th>
+<TH align="center"><font face="Display" size="6" color="red">Color</th>
+<TH align="center"><font face="Display" size="6" color="red">Lugar</th>
+</tr>
+<tr>
+<td align="justify"> <font  size="4" color="black"> Las orquídeas constituyen una de las familias botánicas más diversas y fascinantes del planeta, 
+clasificándose principalmente según su forma de crecimiento en epífitas, litófitas y terrestres. Las orquídeas epífitas son las más comunes en el mercado, 
+caracterizadas por crecer sobre troncos y ramas de árboles en las selvas tropicales para alcanzar la luz, utilizando sus raíces aéreas para absorber la humedad 
+y los nutrientes del aire, siendo la popular Phalaenopsis (u orquídea mariposa) su máximo exponente. Por otro lado, las variedades litófitas se anclan firmemente 
+a superficies rocosas o acantilados, alimentándose del musgo y la materia orgánica en descomposición que se acumula en las grietas, como ocurre con algunas especies 
+de Paphiopedilum. Finalmente, las orquídeas terrestres se desarrollan directamente en el suelo como cualquier planta convencional, extendiendo sus raíces 
+bajo la tierra para buscar nutrientes, un grupo que incluye tanto a la exótica Cymbidium como a especies silvestres que habitan en climas templados.</th>
+
+<td align="justify"> <font  size="4" color="black"> Para que las orquídeas mantengan su espectacular floración y crezcan sanas, el secreto radica en 
+replicar su entorno tropical a través de una iluminación abundante pero nunca de sol directo, el cual podría quemar sus hojas. El riego debe ser moderado y 
+guiarse por el color de sus raíces (en las variedades epífitas): si lucen verdes están hidratadas, pero si tornan a un tono grisáceo o blanquecino es momento de 
+regar, preferiblemente por inmersión y utilizando agua blanda o de lluvia para evitar la acumulación de sales. Asimismo, al ser plantas que no toleran el 
+encharcamiento, exigen un sustrato ultra poroso a base de corteza de pino que permita una óptima circulación del aire en las raíces. Por último, agradecerán 
+enormemente que se mantenga una humedad ambiental elevada a su alrededor —ya sea mediante pulverizaciones sutiles o colocando un plato con guijarros y agua 
+debajo de la maceta sin que esta toque el líquido— y la aplicación de un fertilizante específico muy diluido durante su etapa de crecimiento activo.</td>
+
+<td align="justify"> <font  size="4" color="black"> El color de las orquídeas altera profundamente su mensaje simbólico, convirtiendo a cada 
+variedad en un código visual de emociones específicas. Las orquídeas blancas son el emblema de la pureza, la sofisticación y la inocencia, siendo la elección 
+predilecta en bodas y ceremonias religiosas para representar un amor puro y duradero. En contraste, las tonalidades rosadas comunican feminidad, gracia y una 
+profunda admiración o gratitud hacia quien las recibe, mientras que las de color morado o púrpura añaden un matiz de realeza, dignidad y respeto reverencial, 
+ideales para reconocer un logro importante o demostrar admiración intelectual. Por su parte, las orquídeas amarillas desbordan energía, alegría y nuevos comienzos, 
+simbolizando la amistad sincera y el éxito profesional, mientras que las exóticas variedades azules, sumamente raras en la naturaleza, se asocian con la paz, la 
+tranquilidad y la consecución de lo que parece inalcanzable.</td>
+
+<td align="justify"> <font  size="4" color="black">El lugar donde se ubica o se encuentra una orquídea altera profundamente su significado e 
+interpretación, conectando la naturaleza de la planta con la energía del entorno. Cuando una orquídea se sitúa en el hogar, especialmente en salas de estar o 
+recibidores, se transforma en un imán de armonía, paz y estabilidad familiar, actuando como un símbolo de hospitalidad y refinamiento. Si se coloca en el 
+espacio de trabajo u oficina, su presencia simboliza éxito profesional, enfoque y perseverancia, inspirando creatividad debido a la resiliencia que caracteriza 
+a la flor. Por otro lado, encontrar una orquídea en su hábitat natural —como el tronco de un árbol en una selva o la grieta de una roca— evoca la libertad, la 
+adaptación y la pureza salvaje, recordándonos la belleza de la vida que florece sin intervención humana. Finalmente, en la práctica del Feng Shui, el lugar 
+exacto dicta su propósito: ubicada en el norte del hogar potencia la carrera profesional, mientras que en el sureste atrae la prosperidad y la abundancia.</td>
+</tr>
+<tr>
+<TD BGCOLOR="#ffccdd"> <Img src="orquid.jpg" width="400"></TD> 
+<TD BGCOLOR="#ffccdd"> <Img src="orq.webp" width="400"></TD> 
+<TD BGCOLOR="#ffccdd"> <Img src="orqui.jpg" width="400"></TD> 
+<TD BGCOLOR="#ffccdd"> <Img src="orquidea.jpg" width="400"></TD> 
+</tr>
+<TR BGCOLOR="#ffccdd">
+<TD COLSPAN="4" ALIGN="center">
+<A href="Index.html">
+<font face="Display" size="5" color="purple"> 
+Volver
+</font>
+</A>
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

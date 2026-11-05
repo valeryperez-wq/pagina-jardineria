@@ -1,0 +1,70 @@
+/* Cuerpo del documento */
+BODY {
+  background-color: #fff0f5; 
+  font-family: arial;
+  color: #332B2B;
+}
+
+table {
+  border-color: white;
+  border-style: double;
+  border-left-width: medium;
+  background-color: #ffccdd;
+  white-space: pre-wrap;
+  height: 10%;
+  border-collapse: separate;
+}
+
+/*Titulos */
+H1 
+{
+font-family : fantasy;
+text-align : center;
+background-color : #ffccdd;
+color: red;
+}
+/* Subtitulos */
+H2 {
+  color: red ;
+  text-align: center;
+}
+
+/* Titulos de las celdas */
+H3 {
+  font-family: verdana;
+  text-align: center;
+  background-color: #9EF4C3;
+  color: #FFA500;
+} /* Corregido: llave de cierre añadida */
+
+/* Celdas (TD y TH) */
+TD, TH {
+  font-size: 14pt;
+  font-family: verdana, arial;
+  text-align: justify;
+  background-color: #ffccdd; /* Adaptado al diseño rosado del HTML */
+  color: #4D4D4D;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px; /* Corregido doble dos puntos */
+  padding-bottom: 10px;
+  border-style: double;
+  border-color: yellowgreen;
+}
+
+/* Textos especiales */
+p {
+  font-size: 16pt; /* Ajustado para no romper el diseño de las celdas */
+  font-family: helvetica;
+  font-weight: normal;
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  display: block;
+  border-radius: 10px;
+  box-shadow: 5px 5px 0px #008000; /* Corregido error sintáctico de "border-shadaw" y valor de color */
+}
+ 
